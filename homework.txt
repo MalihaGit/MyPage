@@ -1,0 +1,43 @@
+homework -
+- sort the images ( replace with like bdzsm ) ( ask for help )
+- complete the projects html page
+
+
+linkedin- https://www.linkedin.com/authwall?trk=bf&trkInfo=AQECeWJJ6OOGuwAAAZC1UntA-ftpNo75vmAtLprrDiE0LWarE4Pbrgss-BQIgz2uRJAvEktx08NwpFN9y0HY0ae1m1aWjKnxz6caoL6vv_xV-AFbladEU3qiELllS5LYELDG0EE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmaliha-ganesh-b02047297%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app
+
+
+
+
+
+tasks!
+- add gamified ht page/elements
+- add the placeholders for blogs
+- podcast/project research/interviews
+
+
+
+
+
+Work left:
+advent.html : padding for the writing para on top + write more on the other adventures + add padding to the text 
+acade.html : make cards for all the projects + add padding to the text
+maliha.html : footer ( classwork )
+projects.html : fill in all the content
+support.html : add the footer and link the ngo donations (-add to HT footer 1)email 2)linkedin 3)insta 4)knowing you)
+
+
+
+ALL WORKS:
+
+% index.html
+% -link Know more button from banner to the end of the page
+
+project.html
+% -complete the introduction
+-style the blocks
+-complete the solutions content 
+-style the solutions content
+
+support.html
+-add the game
+-add the styles
